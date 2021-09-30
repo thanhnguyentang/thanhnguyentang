@@ -1,8 +1,11 @@
 ### Hi there 👋
+- 👀 I'm interested in {machine learning ∩ statistics ∩ optimization} and its applications in deep learning contexts. 
+- 📖 My research highlights include foundations and methods for reinforcement learning in practical settings including robust Bayesian quadrature optimization, distributional reinforcement learning and offline reinforcement learning. 
+- 🔭 Besides offline RL, recently, I've working on out-of-distribution generalization. 
+- 👯 I’m open to research collaborations. 
 
 <!--
 **thanhnguyentang/thanhnguyentang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
